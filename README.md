@@ -7,5 +7,5 @@ Input:
 Output
 
    simple interest = p*t*r
-2022, XYZ,INC
+2023, XYZ,INC
    
