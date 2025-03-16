@@ -5,7 +5,7 @@ Input:
    t, time period in years
    r, annual rate of interest
 Output
-   simple interest = p*t*r 
-   
-2023, XYZ,INC.
 
+   simple interest = p*t*r
+2023 XYZ,INC
+   
